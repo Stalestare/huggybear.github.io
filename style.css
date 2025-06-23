@@ -1,0 +1,13 @@
+#conversation .user {
+  background-color: #e6f3ff;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 10px;
+  text-align: right;
+}
+#conversation .ai {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 10px;
+}
